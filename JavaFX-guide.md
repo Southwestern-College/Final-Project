@@ -6,6 +6,8 @@ In general, a JavaFX application contains one or more stages which corresponds t
 
 ![Illustration of the tree-like structure of a JavaFX Application](https://jenkov.com/images/java-javafx/javafx-overview-1.png)
 
+![JavaFX rendering](https://www.therevisionist.org/wp-content/uploads/2016/07/MyJavaFX-SimpleButtonGUI_LayoutExplained.png)
+
 ## Stage
 The _stage_ is the outer frame for a JavaFX application. The stage corresponds to a window.
 
